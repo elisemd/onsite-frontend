@@ -1,5 +1,5 @@
 # Onsite-frontend
 
-## REPO FOR FRONTEND OF ONSITE DRAPERY, LLC 
+## repo for frontend of OnSite Drapery, LLC 
 
 #### Built using https://www.creative-tim.com/product/material-kit template 
